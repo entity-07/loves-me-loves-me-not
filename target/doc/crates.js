@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["loves_me_loves_me_not"];
