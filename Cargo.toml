@@ -1,0 +1,7 @@
+[package]
+name = "loves_me_loves_me_not"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+exitcode = "1.1.2"
